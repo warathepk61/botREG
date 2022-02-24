@@ -1,5 +1,5 @@
 
-def flex_timeexam(data_flex):
+def flex_timeexam():
    result =  '''{
           "type": "carousel",
           "contents": [

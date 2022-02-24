@@ -1,4 +1,4 @@
-def flex_timetable(data_flex):
+def flex_timetable():
    result = '''{
   "type": "carousel",
   "contents": [

@@ -1,4 +1,4 @@
-def flex_grades(data_flex):
+def flex_grades():
    result = '''{
   "type": "bubble",
   "direction": "ltr",
